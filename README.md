@@ -1,66 +1,69 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+nama : dimas permana
+-
+nim : 362358302004
+-
+kelas : 2A trpl
+-
+PRATKUM
+-
+Melakukan Register Pada User (POST)
+-
+![register](https://github.com/user-attachments/assets/79a1384a-dea0-45f9-b61f-9cca688929a8)
+-
+Melakukan Login Pada User (POST)
+-
+![login](https://github.com/user-attachments/assets/623f1c6d-666e-4fa6-ab6f-8515159da5f6)
+-
+Menyimpan Data Mahasiswa (POST)
+-
+![mahasiswas](https://github.com/user-attachments/assets/a4bedd4b-9784-4637-9b56-047abb80ed9a)
+-
+Mengambil Semua Data Mahasiswa (GET)
+-
+![get mahasiswas](https://github.com/user-attachments/assets/304a3dee-5115-4b12-91f7-14b64abeba38)
+-
+Menghapus Data Mahasiswa (Hanya Admin - DELETE)
+-
+![delete mahasiswas](https://github.com/user-attachments/assets/f599fd4b-175a-4f10-960f-a8b0452829bf)
+-
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+TUGAS
+-
+Menambahkan Role Pada Tabel Mahasiswas
+-
+![image](https://github.com/user-attachments/assets/c76dbfb2-630c-4972-b04e-f142f81128a3)
+-
+Mengisi Data Admin Baru Dengan Role Admin
+-
+![code-snapshot sd](https://github.com/user-attachments/assets/075b5349-3574-4147-9996-136e4420500f)
+-
+Data Pada Tabel Users
+-
+![table user](https://github.com/user-attachments/assets/479425f7-9581-4255-9e13-b17477f7ef95)
+-
+Menambahkan Route Baru Di api.php
+-
+![code-snapshot](https://github.com/user-attachments/assets/ee2b8e5b-8047-421b-8e10-306a38a4d408)
+-
+Melakukan Perintah CRUD (Login sebagai role Admin)
+-
+*Login Admin (POST)*
+-
+![admin login](https://github.com/user-attachments/assets/91235970-73b2-4cc5-8210-dc4f48b67644)
+-
+*Membuat data mahasiswa (POST)*
+-
+![create mahasiswas](https://github.com/user-attachments/assets/ab98347f-0efd-4dc7-ae74-6d1797f330d2)
+-
+*Melihat data mahasiswa (GET)*
+-
+![melihat data mahassiwa](https://github.com/user-attachments/assets/9adc4e2b-f2b6-44b8-ad24-fae6f70e12bd)
+-
+*Mengubah data mahasiswa (PUT)*
+-
+![ubah data mahasiswa](https://github.com/user-attachments/assets/66759bf6-29d5-4ba6-8fa7-c9a9710bfa1b)
+-
+*Menghapus data mahasiswa (DELETE)*
+-
+![hapus data mahasiswa](https://github.com/user-attachments/assets/0bce803a-4e19-4377-b371-7bcddd32c845)
+-
